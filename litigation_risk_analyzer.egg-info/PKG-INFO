@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: litigation-risk-analyzer
+Version: 0.0.1
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: boto3
+Requires-Dist: python-dotenv
+Requires-Dist: flask
+Requires-Dist: streamlit
+Requires-Dist: joblib
+Requires-Dist: sentence-transformers
+Requires-Dist: lightgbm
+Requires-Dist: PyPDF2
+Requires-Dist: requests
+Requires-Dist: accelerate>=0.26.0

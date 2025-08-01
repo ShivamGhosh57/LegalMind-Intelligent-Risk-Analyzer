@@ -1,0 +1,19 @@
+# Exclude Python virtual environment
+venv/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+
+# Exclude local artifacts and logs (these should be generated inside the container or mounted)
+artifacts/
+logs/
+data/
+
+# Exclude git directory
+.git/
+.gitignore
+
+# Exclude Docker files
+Dockerfile
+.dockerignore

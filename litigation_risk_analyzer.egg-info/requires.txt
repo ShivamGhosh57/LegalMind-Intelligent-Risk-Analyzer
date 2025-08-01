@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+boto3
+python-dotenv
+flask
+streamlit
+joblib
+sentence-transformers
+lightgbm
+PyPDF2
+requests
+accelerate>=0.26.0
